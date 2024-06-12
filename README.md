@@ -15,7 +15,7 @@ After collected the above information, these will be stored into an `.xls` file.
 
 Any actions and or activities related to the material contained within this repo is solely your responsibility. The misuse of the information in this repo can result in criminal charges brought against the company in question. The author will not be held responsible in the event any criminal charges be brought against any individuals misusing the information in this repo to break the law.
 
-As written in [Linkedin User Agreement](https://www.linkedin.com/legal/user-agreement): **you agree you will not use** [...] any bots or other automated methods to access the Services, add or download contacts, send or redirect messages.
+As written in [Linkedin User Agreement]: **you agree you will not use** [...] any bots or other automated methods to access the Services, add or download contacts, send or redirect messages.
    
 ### Terms And Conditions
 
