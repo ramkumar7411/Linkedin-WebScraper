@@ -11,6 +11,7 @@ This is a LinkedIn Python Web Scraper for companies. The script fully simulate a
 
 After collected the above information, these will be stored into an `.xls` file.
 
+
 ### Disclaimer
 
 Any actions and or activities related to the material contained within this repo is solely your responsibility. The misuse of the information in this repo can result in criminal charges brought against the company in question. The author will not be held responsible in the event any criminal charges be brought against any individuals misusing the information in this repo to break the law.
